@@ -72,12 +72,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                                     KC_TRNS,KC_TRNS,         KC_TRNS, KC_TRNS
   )
 };
-
+/*
 layer_state_t layer_state_set_user(layer_state_t state) {
     state = update_tri_layer_state(state, _NUM_SYM, _NAV, _META);
      return state;
    }
-
+*/
 
 
 void rgb_matrix_helper(uint8_t hue, uint8_t sat, uint8_t val, uint8_t i, uint8_t mode) {

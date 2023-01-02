@@ -1,10 +1,10 @@
 # Minisub
 
-Minisub is a [MiniVan-compatible](https://trashman.wiki/keyboards/minivan) hotswap PCB designed by community member [rainkeebs](https://www.rainkeebs.mx/)
+A hotswap drop in replacement for Minivan PCBs.
 
-Keyboard Maintainer: QMK Community  
+Keyboard Maintainer: Rainkeebs  
 Hardware Supported: Minisub PCB  
-Hardware Availability: [Rainkeebs](https://www.rainkeebs.mx/)
+Hardware Availability: https://www.rainkeebs.mx/
 
 Make example for this keyboard (after setting up your build environment):
 
